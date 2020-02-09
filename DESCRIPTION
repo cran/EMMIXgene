@@ -1,6 +1,6 @@
 Package: EMMIXgene
 Type: Package
-Version: 0.1.1
+Version: 0.1.2
 Title: A Mixture Model-Based Approach to the Clustering of Microarray
         Expression Data
 Description: Provides unsupervised selection and clustering of microarray data
@@ -22,9 +22,9 @@ Depends: R (>= 3.3.0)
 Imports: Rcpp (>= 0.12.5), stats, mclust, reshape, ggplot2, scales,
         tools
 SystemRequirements: C++11
-RoxygenNote: 6.0.1
+RoxygenNote: 6.1.1
 VignetteBuilder: R.rsp
 NeedsCompilation: yes
-Packaged: 2019-01-04 10:11:41 UTC; andrewjones
+Packaged: 2020-02-09 05:04:08 UTC; andrewjones
 Repository: CRAN
-Date/Publication: 2019-01-04 14:10:03 UTC
+Date/Publication: 2020-02-09 06:00:02 UTC
